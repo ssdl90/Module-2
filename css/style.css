@@ -1,0 +1,30 @@
+#fifth{
+    color:slategray;
+    font-size: 26px;
+    text-decoration: underline;
+}
+.type{
+    color:red;
+}
+
+.yellow{
+    color:rgb(22, 26, 26);
+    font-size: 30px;
+}
+
+.bold{
+    font-weight: 800;
+    background-color: chartreuse;
+    text-align: center;
+}
+
+ol li.internal{
+    font-weight: bold;
+    
+    background-color: magenta;
+}
+
+/* for Form Design */
+input [type="text"]{
+    color:red;
+}
